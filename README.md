@@ -44,5 +44,5 @@ action
 algorithms, Graph search algorithms
 **Estimated Lines of Code:** 600
 
-![](/screen_recording/screen_recording.gif)
+![](/screen_recording/screen_recording.gif)  
 Generating algorithm: 1, Solving algorithm: 0
